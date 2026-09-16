@@ -19,7 +19,7 @@ endpoints and the Postgres tables behind them.
 ## 🛠 Stack
 
 `TypeScript` · `React` · `Zustand` · `Zod` · `Vite` · `Python` · `FastAPI` ·
-`SQLModel` · `PostgreSQL` · `MinIO` · `Keycloak` · `Docker` · `uv`
+`PostgreSQL` · `Keycloak` · `Docker` · `uv`
 
 ## 📌 Currently
 
